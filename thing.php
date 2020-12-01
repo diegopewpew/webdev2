@@ -3,5 +3,5 @@
                 $servername = "sql12.freemysqlhosting.net";
                 $username = "sql12379505";
                 $password = "2JGiykMm1p";
-                $dbname = "ismis_2";
+                $dbname = "sql12379505";
 ?>
