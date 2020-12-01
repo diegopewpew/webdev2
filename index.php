@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="form-group">
-                        <form action="login_page.php" method="post">
+                        <form action="index.php" method="post">
                                 
                                 <label>Email</label><br>
                                 <input type="email" class="form-control" name="email"><br><br>
