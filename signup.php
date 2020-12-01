@@ -74,7 +74,7 @@
                          
                 if(mysqli_query($conn, $sql)){
                     echo "New record created!";
-                    header('location: login_page.php');
+                    header('location: index.php');
                 } else {
                     echo "Error: ".$sql."<br>".mysqli_error($conn);
                 }
